@@ -23,7 +23,7 @@
 
     <link rel="stylesheet" href="css/datatables.css">
 
-    <title>DATA SIMULASI</title>
+    <title>Klasifikasi Bunga Iris</title>
 </head>
 
 <body>
@@ -40,10 +40,10 @@
             <div class="collapse navbar-collapse" id="navbarResponsive">
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item">
-                        <a class="nav-link" href="index.php">Prediksi</a>
+                        <a class="nav-link" href="index.php">Klasifikasi</a>
                     </li>
                     <li class="nav-item active">
-                        <a class="nav-link" href="data_simulasi.php">Data<span class="sr-only">(current)</span> </a>
+                        <a class="nav-link" href="dataset.php">Data<span class="sr-only">(current)</span> </a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="about.php">Informasi</a>

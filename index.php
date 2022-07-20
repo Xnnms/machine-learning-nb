@@ -29,7 +29,7 @@ use Phpml\Dataset\CsvDataset;
     <link href="https://fonts.googleapis.com/css?family=Lato:400,700&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,700&display=swap" rel="stylesheet">
 
-    <title>Prediksi Kelulusan TNI</title>
+    <title>Klasifikasi Bunga Iris</title>
 </head>
 
 <body>
@@ -46,10 +46,10 @@ use Phpml\Dataset\CsvDataset;
             <div class="collapse navbar-collapse" id="navbarResponsive">
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item active">
-                        <a class="nav-link" href="index.php">Prediksi<span class="sr-only">(current)</span> </a>
+                        <a class="nav-link" href="index.php">Klasifikasi<span class="sr-only">(current)</span> </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="data_simulasi.php">Data</a>
+                        <a class="nav-link" href="dataset.php">Data</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="about.php">Informasi</a>

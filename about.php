@@ -20,7 +20,7 @@
     <link href="https://fonts.googleapis.com/css?family=Lato:400,700&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,700&display=swap" rel="stylesheet">
 
-    <title>Prediksi Naive Bayes V.1</title>
+    <title>Klasifikasi Bunga Iris</title>
 </head>
 
 <body>
@@ -37,10 +37,10 @@
             <div class="collapse navbar-collapse" id="navbarResponsive">
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item">
-                        <a class="nav-link" href="index.php">Prediksi</a>
+                        <a class="nav-link" href="index.php">Klasifikasi</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="data_simulasi.php">Data</a>
+                        <a class="nav-link" href="dataset.php">Data</a>
                     </li>
                     <li class="nav-item active">
                         <a class="nav-link" href="about.php">Informasi<span class="sr-only">(current)</span> </a>
