@@ -80,8 +80,7 @@
                         <!-- Row -->
                         <div class="row">
                             <div class="col-md-12">
-                                <img src="https://www.wrappixel.com/demos/ui-kit/wrapkit/assets/images/team/t1.jpg"
-                                    alt="wrapkit" class="img-fluid rounded-circle" />
+                                <img src="img/epul.jpg" alt="wrapkit" class="img-fluid rounded-circle" />
                             </div>
                             <div class="col-md-12 text-center">
                                 <div class="pt-2">
@@ -98,8 +97,7 @@
                         <!-- Row -->
                         <div class="row">
                             <div class="col-md-12">
-                                <img src="img/jefri.jpg" alt="" class="img-fluid rounded-circle" width="200"
-                                    height="200" />
+                                <img src="img/jefri.jpg" alt="" class="img-fluid rounded-circle" />
                             </div>
                             <div class="col-md-12 text-center">
                                 <div class="pt-2">
@@ -116,8 +114,7 @@
                         <!-- Row -->
                         <div class="row">
                             <div class="col-md-12">
-                                <img src="https://www.wrappixel.com/demos/ui-kit/wrapkit/assets/images/team/t3.jpg"
-                                    alt="wrapkit" class="img-fluid rounded-circle" />
+                                <img src="img/bobi.jpeg" alt="wrapkit" class="img-fluid rounded-circle" />
                             </div>
                             <div class="col-md-12 text-center">
                                 <div class="pt-2">
