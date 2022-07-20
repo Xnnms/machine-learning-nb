@@ -98,8 +98,8 @@
                         <!-- Row -->
                         <div class="row">
                             <div class="col-md-12">
-                                <img src="https://www.wrappixel.com/demos/ui-kit/wrapkit/assets/images/team/t2.jpg"
-                                    alt="wrapkit" class="img-fluid rounded-circle" />
+                                <img src="img/jefri.jpg" alt="" class="img-fluid rounded-circle" width="200"
+                                    height="200" />
                             </div>
                             <div class="col-md-12 text-center">
                                 <div class="pt-2">
